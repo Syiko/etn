@@ -12,8 +12,17 @@
 	</head>
 
 	<body>
+		<!-- This Script is from www.htmlfreecodes.com, Provided by: Mahmood Bina -->
+<script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script>
+<STYLE TYPE="text/css">
+BODY { background-image: url(http://www.htmlfreecodes.com/images/bg.jpg) }
+BODY { background-repeat: repeat }
+BODY { background-position: center }
+</STYLE>
 
-		<body background="https://www.walldevil.com/wallpapers/a87/wallpaper-windows-funny-bliss-bigest-images.jpg" height="1080" width="1920">
+<a target="_blank" href="http://free-web-tools.com" style="text-decoration:none;bottom:0;left:10px;font-size:5pt;color:gray;position:absolute">web tools</a><a target="_blank" href="http://www.htmlfreecodes.com" style="font-size: 8pt; text-decoration: none">Html Codes</a>
+
+		
 
 		<a> <b><i><u>Uganda's official website</u></i></b> </a>
 
